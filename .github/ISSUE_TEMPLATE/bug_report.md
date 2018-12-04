@@ -17,11 +17,13 @@ Steps to reproduce the behavior:
 **Expected behavior**
 A clear and concise description of what you expected to happen.
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+**Frequency**
+Does the issue happen:
+[ ] Always
+[ ] Randomly
 
 **Edition (Desktop environment):**
-Choose the edition where this is happening:
+In which edition is this happening?
 [ ] Cinnamon Edition
 [ ] MATE Edition
 [ ] Xfce Edition
@@ -30,6 +32,9 @@ Choose the edition where this is happening:
 Indicate if this is happening after the installation, or during the live session:
 [ ] Post-install
 [ ] Live session
+
+**Screenshots**
+If applicable, add screenshots to help explain your problem.
 
 **Locale:**
 Paste the output of `locale`.
