@@ -19,19 +19,19 @@ A clear and concise description of what you expected to happen.
 
 **Frequency**
 Does the issue happen:
-[ ] Always
-[ ] Randomly
+- [ ] Always
+- [ ] Randomly
 
 **Edition (Desktop environment):**
 In which edition is this happening?
-[ ] Cinnamon Edition
-[ ] MATE Edition
-[ ] Xfce Edition
+- [ ] Cinnamon Edition
+- [ ] MATE Edition
+- [ ] Xfce Edition
 
 **Live or post-install:**
 Indicate if this is happening after the installation, or during the live session:
-[ ] Post-install
-[ ] Live session
+- [ ] Post-install
+- [ ] Live session
 
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
